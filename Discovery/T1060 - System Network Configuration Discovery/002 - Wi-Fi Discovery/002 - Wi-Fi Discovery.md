@@ -1,4 +1,5 @@
 https://attack.mitre.org/techniques/T1016/002/
+https://detect.fyi/detecting-wifi-dumping-via-direct-winapi-calls-and-introduction-to-immutable-artifacts-8ad0661344c1
 
 
 | Log Source     | Event ID | Description       | References |
